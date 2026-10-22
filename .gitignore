@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+extracted_images/
+qdrant_storage/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.sqlite
+*.db
+.env

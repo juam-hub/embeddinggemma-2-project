@@ -1,0 +1,12 @@
+ollama>=0.4.0
+pymupdf>=1.24.0
+qdrant-client>=1.11.0
+streamlit>=1.38.0
+pydantic>=2.8.0
+pillow>=10.4.0
+requests>=2.32.0
+imageio>=2.35.0
+imageio-ffmpeg>=0.5.1
+SpeechRecognition>=3.10.0
+vosk>=0.3.45
+
